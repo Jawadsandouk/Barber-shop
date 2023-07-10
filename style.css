@@ -102,3 +102,38 @@ nav ul li a{
         margin: 20px auto;
     }
 }
+footer {
+    background-color: #35a197;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer a {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #666;
+}
+
+#git {
+    color: rgb(176, 115, 0);
+}
+#tel {
+    color: rgb(0, 85, 255);
+}
+#email {
+    color: rgb(142, 39, 39);
+}
